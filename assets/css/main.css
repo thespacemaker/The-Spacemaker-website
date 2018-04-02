@@ -1228,8 +1228,7 @@
 
 			.item header {
 				height: 12em;
-				margin-left:-50%; /* line added */
-       margin-top:-50%;
+				margin: -2em 0 2em -1em;
 				width: calc(100% + 2em);
 			}
 
@@ -1598,4 +1597,8 @@
   padding: 1em 3em;
   border-radius: 3px;
   text-decoration: none;
+}
+
+.test {
+	max-width: 100%;
 }
