@@ -1,1 +1,57 @@
 
+==================================================================
+https://keybase.io/spacemaker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://adnan.io
+  * I am spacemaker (https://keybase.io/spacemaker) on keybase.
+  * I have a public key ASAi7oHZFgmHCXyxQScdOdhWGd4E5PhJL1Ruo8rV5L5kswo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012022ee81d9160987097cb141271d39d85619de04e4f8492f546ea3cad5e4be64b30a",
+      "host": "keybase.io",
+      "kid": "012022ee81d9160987097cb141271d39d85619de04e4f8492f546ea3cad5e4be64b30a",
+      "uid": "76ac9d319ef2f356830b2b1b92423c19",
+      "username": "spacemaker"
+    },
+    "merkle_root": {
+      "ctime": 1570853539,
+      "hash": "bbd3e3ed6f401fed24887309e2d0adc09fef379f4ff405579624a368539240ecbc72d52468a46eca2e582d36dd43296c76e052de61541a640c07b59223ae6475",
+      "hash_meta": "f12908d94d16aeb9f5352d75962f64fa602c79b0ca214414691c6fc181d14a9d",
+      "seqno": 8037909
+    },
+    "service": {
+      "entropy": "H0MX0fycaZdbJKnv/tnQZ5I1",
+      "hostname": "adnan.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1570853576,
+  "expire_in": 504576000,
+  "prev": "840ea5a1f19ebffef9430035d916d5d265468ea02b3670d3d145fa5253d651f5",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIu6B2RYJhwl8sUEnHTnYVhneBOT4SS9UbqPK1eS+ZLMKp3BheWxvYWTESpcCDsQghA6lofGev/75QwA12RbV0mVGjqArNnDT0UX6UlPWUfXEIL/2gzwkikgNZg+Rnu0lqUyAYFzsdT+ycf7btMMYGMCoAgHCo3NpZ8RAQzaQo1uiIKMNXyNH9sUZKpGYx1B0k+yJAmLPBjW38X1y7KOQMdv4nz4PDs/8bYuJOeefiR1f7ybD4uUlyQpkCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC0mHEyQcgiuFXm0i+riLRxqZYr3BTBnm+cJqB0inFkZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spacemaker
+
+==================================================================
